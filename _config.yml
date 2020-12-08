@@ -1,5 +1,5 @@
-title: Minsuk Sung
-url: "https://github.com/minsuk-sung"
+title: Heeseung Cho
+url: "https://github.com/Heeseung-Cho"
 baseurl: ""
 
 markdown: kramdown
@@ -9,18 +9,12 @@ tracking_id: UA-138665784-2 #
 
 
 footer: no
-footer_url: "https://github.com/minsuk-sung"
-footer_text: "Minsuk Sung"
+footer_url: "https://github.com/Heeseung-Cho"
+footer_text: "Heeseung Cho"
 
 sass:
     style: compressed
     sass_dir: _sass
-
-nav:
- - name: "Blog"
-   link: "https://minsuksung-ai.tistory.com/"
- - name: "Facebook"
-   link: "https://www.facebook.com/minsuk.stone.sung/"
 
 remote_theme: ankitsultana/researcher@gem
 
