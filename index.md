@@ -20,25 +20,31 @@ Please contact me if you want to know more about me!  See CV for more informatio
 ## Education
 ### Sogang University School of Natural Science (2011/03/02 ~ 2018/02/20)
 - Major: Math, Ecocomics
+
 ---
 
 ## Work Experience
 ### LG CNS / Data Scientist(DW/BI) (2018/01/01 ~ 2020/02/17)
 - DW Management
 - Analysis System for manufacturing data SI
+
 ---
 
 ## Research Interest
 - Combine Reinforcement Learning & Game Theory to improve decision making
 - Big Data Analysis
 - Economics, Game background
+
 ---
 
 ## Certification
+
 ### Advanced Data Analytics Semi-Professional 
 - Certificated Date: 2016/06/28
+
 ### SAS Base Programming for SAS 9
 - Certificated Date: 2016/08/22
+
 ---
 
 ## Honors & Awards
@@ -47,6 +53,7 @@ Please contact me if you want to know more about me!  See CV for more informatio
 |:-----:|-------|----|----|
 |2019| Kaggle | Santander Custoumer Transaction Prediction | Bronze Medal |
 |2020| BigContest | Predicting future sales of NS home-shopping | Final |
+
 ---
 
  <!-- This is a [link](http://google.com). Something *italics* and something **bold**.-->
