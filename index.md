@@ -30,10 +30,26 @@ Please contact me if you want to know more about me!  See CV for more informatio
 
 ---
 
+## Language Skill
+- Java, .Net Framework, SQL, DBMS
+- Python, R, SAS
+
+---
+
+
 ## Research Interest
 - Combine Reinforcement Learning & Game Theory to improve decision making
 - Big Data Analysis
 - Economics, Game background
+
+---
+
+## Current Research
+### Balloon Analoug Risk Task(BART)
+- How much people will have risk-takeness?
+
+### Financial System Trading
+- Dealing DB, C# API
 
 ---
 
