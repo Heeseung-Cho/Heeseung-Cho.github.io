@@ -24,10 +24,13 @@ Please contact me if you want to know more about me!  See CV for more informatio
 ---
 
 ## Work Experience
+### Teaching Assistant
+- Advanced Econometrics / Sogang University (2016 Fall Semester)
+- AI/DT Course / SK FastCampus (2021/1/8 ~ 2021/1/11)
+
 ### LG CNS / Data Scientist(DW/BI) (2018/01/01 ~ 2020/02/17)
 - DW Management
 - Analysis System for manufacturing data SI
-
 ---
 
 ## Language Skill
