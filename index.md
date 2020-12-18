@@ -34,7 +34,7 @@ Please contact me if you want to know more about me!  See CV for more informatio
 ---
 
 ## Language Skill
-- Java, .Net Framework, SQL, DBMS
+- Java, .Net Framework, SQL/DBMS(Oracle,No)
 - Python, R, SAS
 
 ---
