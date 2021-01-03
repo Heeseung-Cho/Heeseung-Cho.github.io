@@ -31,6 +31,7 @@ Please contact me if you want to know more about me!  See CV for more informatio
 ### LG CNS / Data Scientist(DW/BI) (2018/01/01 ~ 2020/02/17)
 - DW Management
 - Analysis System for manufacturing data SI
+
 ---
 
 ## Language Skill
