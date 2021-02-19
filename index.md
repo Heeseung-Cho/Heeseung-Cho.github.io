@@ -71,7 +71,7 @@ Please contact me if you want to know more about me!  See CV for more informatio
 
 |Year|Award|Organization|Place|  
 |:-----:|-------|----|----|
-|2019| Kaggle | Santander Custoumer Transaction Prediction | Bronze Medal |
+|2019| Kaggle | Santander Custoumer Transaction Prediction | Bronze Medal(760th) |
 |2020| BigContest | Predicting future sales of NS home-shopping | Final |
 
 ---
