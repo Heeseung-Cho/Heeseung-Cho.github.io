@@ -73,7 +73,7 @@ Please contact me if you want to know more about me!  See CV for more informatio
 |:-----:|-------|----|----|
 |2019| Kaggle | Santander Custoumer Transaction Prediction | Bronze Medal(760th) |
 |2020| BigContest | Predicting future sales of NS home-shopping | Final |
-
+|2021| MindCompany | Teeth detection | 3rd |
 ---
 
  <!-- This is a [link](http://google.com). Something *italics* and something **bold**.-->
