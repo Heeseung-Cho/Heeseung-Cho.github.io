@@ -24,13 +24,17 @@ Please contact me if you want to know more about me!  See CV for more informatio
 ---
 
 ## Work Experience
-### Teaching Assistant
-- Advanced Econometrics / Sogang University (2016 Fall Semester)
-- AI/DT Course / SK FastCampus (2021/1/8 ~ 2021/1/11)
 
 ### LG CNS / Data Scientist(DW/BI) (2018/01/01 ~ 2020/02/17)
 - DW Management
 - Analysis System for manufacturing data SI
+
+### Teaching Assistant
+- Advanced Econometrics / Sogang University (2016 Fall Semester)
+- AI/DT Course / SK FastCampus (2021/1/8 ~ 2021/1/11)
+
+### Lecture
+- Big Data Analysis with R / K-ICT (2021/4/7 ~ 2021/4/9)
 
 ---
 
@@ -44,13 +48,16 @@ Please contact me if you want to know more about me!  See CV for more informatio
 ## Research Interest
 - Combine Reinforcement Learning & Game Theory to improve decision making
 - Big Data Analysis
-- Economics, Game background
+- Decision Making
 
 ---
 
 ## Current Research
 ### Balloon Analoug Risk Task(BART)
-- How much people will have risk-takeness?
+- Interpreting risk-takeness with personality scales
+
+### Uncertainty detection(OoD)
+- How labels affect uncertainty performance?
 
 ### Financial System Trading
 - Dealing DB, C# API
