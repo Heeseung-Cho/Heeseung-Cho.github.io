@@ -31,6 +31,7 @@ Please contact me if you want to know more about me!  See CV for more informatio
 
 ### Teaching Assistant
 - Advanced Econometrics / Sogang University (2016 Fall Semester)
+- Data Science and AI / Korea University (2021 Spring Semester)
 - AI/DT Course / SK FastCampus (2021/1/8 ~ 2021/1/11)
 
 ### Lecture
@@ -56,11 +57,12 @@ Please contact me if you want to know more about me!  See CV for more informatio
 ### Balloon Analoug Risk Task(BART)
 - Interpreting risk-takeness with personality scales
 
-### Uncertainty detection(OoD)
-- How labels affect uncertainty performance?
+### Vision
+- Model performance related with data complexity
+- Uncertainty performance related with data complexity
 
-### Financial System Trading
-- Dealing DB, C# API
+### BCI 
+- Behavior experiment
 
 ---
 
