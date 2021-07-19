@@ -35,7 +35,7 @@ Please contact me if you want to know more about me!  See CV for more informatio
 - AI/DT Course / SK FastCampus (2021/1/8 ~ 2021/1/11)
 
 ### Lecture
-- Big Data Analysis with R / K-ICT (2021/4/7 ~ 2021/4/9) [GitHub](https://github.com/Heeseung-Cho/R_MiddleClass)
+- Big Data Analysis with R / K-ICT (1st: 2021/4/7 ~ 2021/4/9, 2nd: 2021/7/12 ~ 2021/7/14) [GitHub](https://github.com/Heeseung-Cho/R_MiddleClass)
 
 ---
 
