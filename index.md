@@ -41,9 +41,8 @@ Please contact me if you want to know more about me!  See CV for more informatio
 ---
 
 ## Language Skill
-- Java, .Net Framework, SQL/DBMS(Oracle)
-- Python, R, SAS
-
+- **Main**: Python, R
+- **Sub**: Java, .Net Framework, SQL/DBMS(Oracle)
 ---
 
 
@@ -61,6 +60,9 @@ Please contact me if you want to know more about me!  See CV for more informatio
 ### BCI Experiment
 - Balloon Analoug Risk Task(BART)
 - Chicken Game in Driving
+
+### Computer Vision
+- Enhancing human decision with vision-related decision
 
 ---
 
