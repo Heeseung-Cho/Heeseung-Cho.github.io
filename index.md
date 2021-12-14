@@ -33,36 +33,34 @@ Please contact me if you want to know more about me!  See CV for more informatio
 - Advanced Econometrics / Sogang University (2016 Fall Semester)
 - Data Science and AI / Korea University (2021 Spring Semester)
 - AI/DT Course / SK FastCampus (2021/1/8 ~ 2021/1/11)
+- Data Creater Camp / K-ICT (2021/9/4 ~ 2021/11/20)
 
 ### Lecture
 - Big Data Analysis with R / K-ICT (1st: 2021/4/7 ~ 2021/4/9, 2nd: 2021/7/12 ~ 2021/7/14) [GitHub](https://github.com/Heeseung-Cho/R_MiddleClass)
-
+- Visualizing in R / Korea University BK21 (2021/10/25 ~ 2022/1/3) [Notion](https://working-sheet-166.notion.site/KUPT-R-7c837826fdad4d378588da56a066dd5e)
 ---
 
 ## Language Skill
-- Java, .Net Framework, SQL/DBMS(Oracle,No)
+- Java, .Net Framework, SQL/DBMS(Oracle)
 - Python, R, SAS
 
 ---
 
 
 ## Research Interest
-- Combine Reinforcement Learning & Game Theory to improve decision making
 - Big Data Analysis
 - Decision Making
+- Computer Vision in Decision
 
 ---
 
 ## Current Research
-### Balloon Analoug Risk Task(BART)
-- Interpreting risk-takeness with personality scales
+### XAI
+- Robustness of Personality Measures - ML perspective (Ongoing)
 
-### Vision
-- Model performance related with data complexity
-- Uncertainty performance related with data complexity
-
-### BCI 
-- Behavior experiment
+### BCI Experiment
+- Balloon Analoug Risk Task(BART)
+- Chicken Game in Driving
 
 ---
 
@@ -78,7 +76,7 @@ Please contact me if you want to know more about me!  See CV for more informatio
 
 ## Honors & Awards
 
-|Year|Award|Organization|Place|  
+|Year|Organization|Topic|Place|  
 |:-----:|-------|----|----|
 |2019| Kaggle | Santander Custoumer Transaction Prediction | Bronze Medal(760th) |
 |2020| BigContest | Predicting future sales of NS home-shopping | Final |
