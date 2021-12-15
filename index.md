@@ -41,9 +41,11 @@ Please contact me if you want to know more about me!  See CV for more informatio
 
 ---
 
+
 ## Language Skill
 - **Main**: Python, R
 - **Sub**: Java, .Net Framework, SQL/DBMS(Oracle)
+
 ---
 
 
