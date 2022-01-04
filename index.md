@@ -32,8 +32,8 @@ Please contact me if you want to know more about me!  See CV for more informatio
 ### Teaching Assistant
 - Advanced Econometrics / Sogang University (2016 Fall Semester)
 - Data Science and AI / Korea University (2021 Spring Semester)
-- AI/DT Course / SK FastCampus (2021/1/8 ~ 2021/1/11)
-- Data Creater Camp / K-ICT (2021/9/4 ~ 2021/11/20)
+- AI/DT Course Python / SK FastCampus (2021/1/8 ~ 2021/1/11)
+- Data Creater Camp - Python / K-ICT (2021/9/4 ~ 2021/11/20)
 
 ### Lecture
 - Big Data Analysis with R / K-ICT (1st: 2021/4/7 ~ 2021/4/9, 2nd: 2021/7/12 ~ 2021/7/14) [GitHub](https://github.com/Heeseung-Cho/R_MiddleClass)
