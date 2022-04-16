@@ -33,11 +33,11 @@ Please contact me if you want to know more about me!  See CV for more informatio
 - Advanced Econometrics / Sogang University (2016 Fall Semester)
 - Data Science and AI / Korea University (2021 Spring Semester)
 - AI/DT Course Python / SK FastCampus (2021/1/8 ~ 2021/1/11)
-- Data Creater Camp - Python / K-ICT (2021/9/4 ~ 2021/11/20)
+- Data Creater Camp / K-ICT (2021/9/4 ~ 2021/11/20)
 
 ### Lecture
-- Big Data Analysis with R / K-ICT (1st: 2021/4/7 ~ 2021/4/9, 2nd: 2021/7/12 ~ 2021/7/14) [GitHub](https://github.com/Heeseung-Cho/R_MiddleClass)
-- Visualizing in R / Korea University BK21 (2021/10/25 ~ 2022/1/3) [Notion](https://working-sheet-166.notion.site/KUPT-R-7c837826fdad4d378588da56a066dd5e)
+- Big Data Analysis / K-ICT (1st: 2021/4/7 ~ 2021/4/9, 2nd: 2021/7/12 ~ 2021/7/14) [GitHub](https://github.com/Heeseung-Cho/R_MiddleClass)
+- Big Data Visualizing / Korea University BK21 (2021/10/25 ~ 2022/1/3) [Notion](https://working-sheet-166.notion.site/KUPT-R-7c837826fdad4d378588da56a066dd5e)
 
 ---
 
@@ -57,15 +57,15 @@ Please contact me if you want to know more about me!  See CV for more informatio
 ---
 
 ## Current Research
+
+### Computer Vision
+- Neural graphic primitives (NeRF)
+
 ### XAI
 - Robustness of Personality Measures - ML perspective (Ongoing)
 
 ### BCI Experiment
-- Balloon Analoug Risk Task(BART)
-- Chicken Game in Driving
-
-### Computer Vision
-- Enhancing human decision with vision-related decision
+- VR-EEG Experiment
 
 ---
 
