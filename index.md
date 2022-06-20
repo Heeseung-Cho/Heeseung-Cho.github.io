@@ -67,6 +67,9 @@ Please contact me if you want to know more about me!  See CV for more informatio
 ### BCI Experiment
 - VR-EEG Experiment
 
+### Project
+- Automizied data anonymization
+
 ---
 
 ## Certification
