@@ -38,6 +38,7 @@ Please contact me if you want to know more about me!  See CV for more informatio
 ### Lecture
 - Big Data Analysis / K-ICT (1st: 2021/4/7 ~ 2021/4/9, 2nd: 2021/7/12 ~ 2021/7/14) [GitHub](https://github.com/Heeseung-Cho/R_MiddleClass)
 - Big Data Visualizing / Korea University BK21 (2021/10/25 ~ 2022/1/3) [Notion](https://working-sheet-166.notion.site/KUPT-R-7c837826fdad4d378588da56a066dd5e)
+- Big Data Analysis / K-ICT (2022/7/9,16)
 
 ---
 
