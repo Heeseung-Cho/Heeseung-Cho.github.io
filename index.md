@@ -65,11 +65,9 @@ Please contact me if you want to know more about me!  See CV for more informatio
 ### XAI
 - Robustness of Personality Measures - ML perspective (Ongoing)
 
-### BCI Experiment
+### BCI
 - VR-EEG Experiment
-
-### Project
-- Automizied data anonymization
+- Sleep Analysis
 
 ---
 
@@ -87,9 +85,10 @@ Please contact me if you want to know more about me!  See CV for more informatio
 
 |Year|Organization|Topic|Place|  
 |:-----:|-------|----|----|
-|2019| Kaggle | Santander Custoumer Transaction Prediction | Bronze Medal(760th) |
+|2019| Kaggle | Santander Custoumer Transaction Prediction | Bronze(760th) |
 |2020| BigContest | Predicting future sales of NS home-shopping | Final |
 |2021| MindCompany | Teeth detection | 3rd |
+|2022| Kaggle | Google Universial Image Embedding | Bronze(88th) |
 
 ---
 
