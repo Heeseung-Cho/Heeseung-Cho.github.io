@@ -56,21 +56,22 @@ Please contact me if you want to know more about me!  See CV for more informatio
 ## Research Interest
 - Big Data Analysis
 - Decision Making
-- Computer Vision in Decision
+- Computer Vision
 
 ---
 
 ## Current Research
 
-### Computer Vision
-- Neural graphic primitives (NeRF)
-
 ### XAI
-- Robustness of Personality Measures - ML perspective (Ongoing)
+Robustness of Personality Measures - ML perspective (2021 ~ 2022)
+- A Study on gender difference on ML classifier
+- Find robust prediction power and interpretation score within models
+- Consistent explaination with previous statistics-based research
 
 ### BCI
-- VR-EEG Experiment
-- Sleep Analysis
+Sleep Analysis (2022 ~ )
+- Classify sleep stages with signal-based dataset
+- Multimodality on two-or-more signals
 
 ---
 
