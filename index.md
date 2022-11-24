@@ -37,7 +37,7 @@ Sleep Analysis (2022 ~ )
 
 ### LG CNS / Data Scientist(DW/BI) (2018/01/01 ~ 2020/02/17)
 In manufacturing, factories generate more than 200 million data per second and this makes hard to analyze which factors derive product defective.
-We managed data intergration from different sources with Oracle DB, and provided analysis system which shows quick statistical test or visualization with Spotfire.
+We managed data integration from different sources with Oracle DB, and provided analysis system which shows quick statistical test or visualization with Spotfire.
 - DW Management
 - Front-end SI
 
