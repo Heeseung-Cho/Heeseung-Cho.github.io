@@ -20,7 +20,7 @@ Please contact me if you want to know more about me!  See CV for more informatio
 ## Current Research
 
 ### XAI
-#### Robustness of Personality Measures - ML perspective (2021 ~ 2022)
+#### Robustness of Personality Measures - ML perspective (2021 ~ 2022, drafting)
   Gender differences is still discussed on psychology why they have different personality traits. Latest researches tend to suggest male and females shows large distance on traits such as Agreeableness, Neuroticism, Sensitivities. With this difference, we applied on machine learning classifier so that how different between gender, and what traits are important on machine aspect. We found from open surveys that: 
 - Find robust prediction power and interpretation score within models
 - Consistent explaination with previous statistics-based research
