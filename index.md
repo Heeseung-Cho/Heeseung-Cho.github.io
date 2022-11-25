@@ -20,14 +20,15 @@ Please contact me if you want to know more about me!  See CV for more informatio
 ## Current Research
 
 ### XAI
-Robustness of Personality Measures - ML perspective (2021 ~ 2022)
-- A Study on gender difference on ML classifier
+#### Robustness of Personality Measures - ML perspective (2021 ~ 2022)
+  Gender differences is still discussed on psychology why they have different personality traits. Latest researches tend to suggest male and females shows large distance on traits such as Agreeableness, Neuroticism, Sensitivities. With this difference, we applied on machine learning classifier so that how different between gender, and what traits are important on machine aspect. We found from open surveys that: 
 - Find robust prediction power and interpretation score within models
 - Consistent explaination with previous statistics-based research
 
 ### BCI
-Sleep Analysis (2022 ~ )
-- Classify sleep stages with signal-based dataset
+#### Sleep Analysis (2022 ~ )
+  Sleep researches gain dataset from polysomnography(PSG) which measures signals such as EEG, EOG and sleep stages. Since this is a hard process for both participants and researchers, we are trying to find sources which is comfortable(ex. smart watch) than PSG but can lead to high accuracy. 
+- Classify sleep stages with device-driven signal dataset
 - Multimodality on two-or-more signals
 
 
@@ -36,7 +37,7 @@ Sleep Analysis (2022 ~ )
 ## Work Experience
 
 ### LG CNS / Data Scientist(DW/BI) (2018/01/01 ~ 2020/02/17)
-In manufacturing, factories generate more than 200 million data per second and this makes hard to analyze which factors derive product defective.
+  In manufacturing, factories generate more than 200 million data per second and this makes hard to analyze which factors derive product defective.
 We managed data integration from different sources with Oracle DB, and provided analysis system which shows quick statistical test or visualization with Spotfire.
 - DW Management
 - Front-end SI
