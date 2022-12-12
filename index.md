@@ -9,6 +9,8 @@ Hi! I am a MS/Ph.D student in the Department of Artificial Intelligence at Korea
 
 - Phone : +82-10-5028-3288
 - E-mail: hscho9384@korea.ac.kr
+- Github: https://github.com/Heeseung-Cho
+- Linkedin: https://www.linkedin.com/in/heeseung-cho-2222b1204/
 
 Please contact me if you want to know more about me!  See CV for more information.
 
