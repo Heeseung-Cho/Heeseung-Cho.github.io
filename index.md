@@ -84,7 +84,7 @@ We managed data integration from different sources with Oracle DB, and provided 
 ## Education
 ### Sogang University (2011/03/02 ~ 2018/02/20)
 #### Major: Math, Ecocomics
-- Main courses: Topology, Probability Theory, Microeconomics, Econometrics
+- Main courses: Statistics, Probability Theory, Game Theory, Econometrics
 
 ### Korea University(2020/03/02 ~ )
 #### Major: Department of Artificial Intelligence 
