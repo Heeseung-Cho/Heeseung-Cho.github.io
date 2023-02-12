@@ -42,7 +42,14 @@ Please contact me if you want to know more about me!  See CV for more informatio
   In manufacturing, factories generate more than 200 million data per second and this makes hard to analyze which factors derive product defective.
 We managed data integration from different sources with Oracle DB, and provided analysis system which shows quick statistical test or visualization with Spotfire.
 - DW Management
-- Front-end SI
+- UI developer
+
+### Voinosis (2022/12/26 ~ )
+ https://www.voinosis.com
+
+### WKIT (2023/01/09 ~ )
+ http://www.wkit.co.kr/main.do
+
 
 ### Teaching Assistant
 - Advanced Econometrics / Sogang University (2016 Fall Semester)
