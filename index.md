@@ -17,6 +17,7 @@ Please contact me if you want to know more about me!  See CV for more informatio
  <!-- This is a jekyll based resume template. You can find the full source code on [GitHub] --> 
  <!-- (https://github.com/bk2dcradle/researcher) -->
 
+
 ---
 
 ## Current Research
@@ -41,13 +42,15 @@ Please contact me if you want to know more about me!  See CV for more informatio
 ### LG CNS / Data Scientist(DW/BI) (2018/01/01 ~ 2020/02/17)
   In manufacturing, factories generate more than 200 million data per second and this makes hard to analyze which factors derive product defective.
 We managed data integration from different sources with Oracle DB, and provided analysis system which shows quick statistical test or visualization with Spotfire.
-- DW Management
-- UI developer
 
-### Voinosis (2022/12/26 ~ )
+- DW Management(Oracle SQL)
+- UI developer(.Net, C#, Spotfire)
+- Statistic analysis(Python, R, SAS)
+
+### Voinosis (2022/12/26 ~ Current)
  https://www.voinosis.com
 
-### WKIT (2023/01/09 ~ )
+### WKIT (2023/01/09 ~ Current)
  http://www.wkit.co.kr/main.do
 
 
@@ -57,14 +60,18 @@ We managed data integration from different sources with Oracle DB, and provided 
 - AI/DT Course Python / SK FastCampus (2021/1/8 ~ 2021/1/11)
 - Data Creater Camp / K-ICT (2021/9/4 ~ 2021/11/20, 2022/10/3 ~ 2022/11/4)
 
+
 ### Lecturer
 - Big Data Analysis - R / K-ICT (1st: 2021/4/7 ~ 2021/4/9, 2nd: 2021/7/12 ~ 2021/7/14) [GitHub](https://github.com/Heeseung-Cho/R_MiddleClass)
 - Big Data Visualizing with R / Korea University BK21 (2021/10/25 ~ 2022/1/3) [Notion](https://working-sheet-166.notion.site/KUPT-R-7c837826fdad4d378588da56a066dd5e)
 - Big Data Analysis - Python / K-ICT (2022/7/9,16)
 
+
 ### Activity
 - DACON Education DACREW - Team leader (2022/7/6 ~ 2022/8/31) [Github](https://github.com/Heeseung-Cho/DACrew3_PoliceAndThief)
-
+  8 Weeks study about generation models(GAN) with Tensorflow and Pytorch
+  
+  
 ---
 
 ## Certification
@@ -91,6 +98,7 @@ We managed data integration from different sources with Oracle DB, and provided 
 ## Education
 ### Sogang University (2011/03/02 ~ 2018/02/20)
 #### Major: Math, Ecocomics
+#### Degree: Bachelor's degree
 - Main courses: Statistics, Probability Theory, Game Theory, Econometrics
 
 ### Korea University(2020/03/02 ~ )
@@ -101,8 +109,8 @@ We managed data integration from different sources with Oracle DB, and provided 
 ---
 
 ## Language Skill
-- **Main**: Python, R
-- **Sub**: Java, .Net Framework, SQL/DBMS(Oracle)
+- **Main**: Python(+ Pytorch, Tensorflow), R
+- **Sub**: Java, .Net Framework, SQL(Oracle)
 
 ---
 
