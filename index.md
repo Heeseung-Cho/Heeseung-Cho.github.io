@@ -20,15 +20,15 @@ Please contact me if you want to know more about me!  See CV for more informatio
 
 ---
 
-## Research
+## Research paper
 
 ### XAI
-- Consistent gender prediction in personality: Adapting machine learning to open online datasets (1st, on proceeding)
+- **Consistent gender prediction in personality: Adapting machine learning to open online datasets** (**1st**, on proceeding)
 
 ### Healthcare AI
-- Multi-Epochs Window in Single-Channel PPG Signals from Smartband for Real-time Automatic Sleep Staging (1st, IEEE IoT, Mar 2024, under reviewing)
-- Automatic Sleep Stage Classification Using Nasal Pressure Decoding Based on a Multi-Kernel Convolutional BiLSTM Network (2nd, IEEE Transactions on Neural Systems & Rehabilitation Engineering, Nov 2023, under reviewing)
-- Facial Features Speak Louder: Insights into Cognitive Impairment Detection through Facial Features (2nd, INTERSPEECH, Mar 2024, under reviewing)
+- **Multi-Epochs Window in Single-Channel PPG Signals from Smartband for Real-time Automatic Sleep Staging** (**1st**, IEEE IoT, Mar 2024, under reviewing)
+- **Automatic Sleep Stage Classification Using Nasal Pressure Decoding Based on a Multi-Kernel Convolutional BiLSTM Network** (Co-author, IEEE Transactions on Neural Systems & Rehabilitation Engineering, Nov 2023, under reviewing)
+- **Facial Features Speak Louder: Insights into Cognitive Impairment Detection through Facial Features** (Co-author, INTERSPEECH, Mar 2024, under reviewing)
 
 
 ---
