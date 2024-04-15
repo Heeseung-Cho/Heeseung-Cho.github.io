@@ -20,19 +20,15 @@ Please contact me if you want to know more about me!  See CV for more informatio
 
 ---
 
-## Current Research
+## Research
 
 ### XAI
-#### Robustness of Personality Measures - ML perspective (2021 ~ 2022, drafting on PLOS ONE)
-  Gender differences is still discussed on psychology why they have different personality traits. Latest researches tend to suggest male and females show large distance on traits such as Agreeableness, Neuroticism in Five-Factor model/ Sensitivities, Anxiety and Warmth in Cattell's 16 Personality Factors. With this difference, we applied on machine learning classifier so that how different between gender, and what traits are important on machine aspect. We found from open surveys that: 
-- Find robust prediction power and interpretation score within models
-- Consistent explaination with previous statistics-based research
+- Consistent gender prediction in personality: Adapting machine learning to open online datasets (1st, on proceeding)
 
-### BCI
-#### Sleep Analysis (2022 ~ )
-  Sleep researches gain dataset from polysomnography(PSG) which measures signals such as EEG, EOG and sleep stages. Since this is a hard process for both participants and researchers, we are trying to find sources which is comfortable(ex. smart watch) than PSG but can lead to high accuracy. 
-- Classify sleep stages with device-driven signal dataset
-- Multimodality on two-or-more signals
+### Healthcare AI
+- Multi-Epochs Window in Single-Channel PPG Signals from Smartband for Real-time Automatic Sleep Staging (1st, IEEE IoT, Mar 2024, under reviewing)
+- Automatic Sleep Stage Classification Using Nasal Pressure Decoding Based on a Multi-Kernel Convolutional BiLSTM Network (2nd, IEEE Transactions on Neural Systems & Rehabilitation Engineering, Nov 2023, under reviewing)
+- Facial Features Speak Louder: Insights into Cognitive Impairment Detection through Facial Features (2nd, INTERSPEECH, Mar 2024, under reviewing)
 
 
 ---
@@ -40,19 +36,19 @@ Please contact me if you want to know more about me!  See CV for more informatio
 ## Work Experience
 
 ### LG CNS / Data Scientist(DW/BI) (2018/01/01 ~ 2020/02/17)
-  In manufacturing, factories generate more than 200 million data per second and this makes hard to analyze which factors derive product defective.
-We managed data integration from different sources with Oracle DB, and provided analysis system which shows quick statistical test or visualization with Spotfire.
-
 - DW Management(Oracle SQL)
-- UI developer(.Net, C#, Spotfire)
-- Statistic analysis(Python, R, SAS)
+- UI developer(2018.03 ~ 2020.02)
+- Stack: .Net, C#, Spotfire, Python, R, SAS
 
-### Voinosis (2022/12/26 ~ Current)
- https://www.voinosis.com
+### WKIT (2023/01/09 ~ 2023/04/31)
+- AI developer
+- Time-series water quality estimation (2023.01~2023.03)
+- Stack: Python, Pytorch
 
-### WKIT (2023/01/09 ~ Current)
- http://www.wkit.co.kr/main.do
-
+### Voinosis (2023/05/01 ~ Current)
+- AI developer
+- Early estimation of Alzheimer's disease from acoustic-based voice feature (2023.07 ~ 2023.12)
+- Stack: Python, Pytorch
 
 ### Teaching Assistant
 - Advanced Econometrics / Sogang University (2016 Fall Semester)
@@ -104,7 +100,7 @@ We managed data integration from different sources with Oracle DB, and provided 
 ### Korea University(2020/03/02 ~ )
 #### Major: Department of Artificial Intelligence 
 #### Degree: Integrated MS/Ph.D 
-- Research Interest : Computer Vision, XAI, Decision Making, 3D Representation
+- Research Interest : Computer Vision, XAI, Decision Making
 
 ---
 
