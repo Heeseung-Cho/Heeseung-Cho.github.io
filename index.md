@@ -47,7 +47,9 @@ Please contact me if you want to know more about me!  See CV for more informatio
 
 ### Voinosis (2023/05/01 ~ Current)
 - AI developer
+- Speech-based major depression disorder detection (2023.05 ~ 2023.06)
 - Early estimation of Alzheimer's disease from acoustic-based voice feature (2023.07 ~ 2023.12)
+- Diagnosis Alzheimer's disease on eye-gaze fixation (2024.01 ~ )
 - Stack: Python, Pytorch
 
 ### Teaching Assistant
@@ -66,7 +68,7 @@ Please contact me if you want to know more about me!  See CV for more informatio
 ### Activity
 - DACON Education DACREW - Team leader (2022/7/6 ~ 2022/8/31) [Github](https://github.com/Heeseung-Cho/DACrew3_PoliceAndThief)
   8 Weeks study about generation models(GAN) with Tensorflow and Pytorch
-  
+- SNUAI 10th: Deep learning paper study - member (2021/8/1 ~ 2021/11/2) 
   
 ---
 
@@ -84,10 +86,10 @@ Please contact me if you want to know more about me!  See CV for more informatio
 
 |Year|Organization|Topic|Place|  
 |:-----:|-------|----|----|
-|2019| Kaggle | Santander Custoumer Transaction Prediction | Bronze(760th) |
-|2020| BigContest | Predicting future sales of NS home-shopping | Final |
-|2021| MindCompany | Teeth detection | 3rd |
 |2022| Kaggle | Google Universial Image Embedding | Bronze(88th) |
+|2021| MindCompany | Teeth detection | 3rd |
+|2020| BigContest | Predicting future sales of NS home-shopping | Final |
+|2019| Kaggle | Santander Custoumer Transaction Prediction | Bronze(760th) |
 
 ---
 
@@ -105,7 +107,7 @@ Please contact me if you want to know more about me!  See CV for more informatio
 ---
 
 ## Language Skill
-- **Main**: Python(+ Pytorch, Tensorflow), R
+- **Main**: Python(+ Pytorch, Tensorflow), R, Docker
 - **Sub**: Java, .Net Framework, SQL(Oracle)
 
 ---
